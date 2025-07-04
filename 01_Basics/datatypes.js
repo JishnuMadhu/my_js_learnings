@@ -35,3 +35,16 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// Primitive datatypes:
+// String - string
+// Number - number
+// Boolean - Boolean
+// Null - object(****)
+// Undefined - undefined
+// BigInt - bigint
+
+// Non-primitive datatypes:
+// Array - object
+// Function - function(object)
+// Object - object
